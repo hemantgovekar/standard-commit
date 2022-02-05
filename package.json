@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.17"
+  },
+  "name": "standard-commit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemantgovekar/standard-commit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemantgovekar/standard-commit/issues"
+  },
+  "homepage": "https://github.com/hemantgovekar/standard-commit#readme",
+  "description": ""
+}
